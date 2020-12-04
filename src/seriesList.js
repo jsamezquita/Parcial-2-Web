@@ -36,7 +36,7 @@ export default function SeriesList() {
         const width = 1000;
         const height = 600;
         
-        const margin = { top:100, left:200, bottom: 40, right:10}
+        const margin = { top:10, left:50, bottom: 40, right:10}
         
         const iwidth = width - margin.left - margin.right;
         const iheight = height - margin.top - margin.bottom;
